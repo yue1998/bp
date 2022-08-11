@@ -1,6 +1,6 @@
 # 介绍
 
-代码仓库地址：[https://gitee.com/CandyWall/spring-boot-study](https://gitee.com/CandyWall/spring-boot-study)
+代码仓库地址：[https://github.com/yue1998/bp.git](https://github.com/yue1998/bp.git)
 跟着黑马程序员spring boot教程做的学习笔记，本笔记跟视频内容的项目名称和代码略有不同，都是基于我自己的考量，代码都已经过运行验证过的，仅供参考。
 
 视频教程地址：[https://www.bilibili.com/video/BV15b4y1a7yG](https://www.bilibili.com/video/BV15b4y1a7yG)
